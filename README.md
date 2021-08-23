@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="Abam | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Abam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Abam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Abam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -27,7 +27,7 @@
 
 </details>
 
-<!-- [website]: https://codeSTACKr.com -->
+[website]: https://zulfaabam.github.io/my-portfolio-website/
 <!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/zabamz1
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
