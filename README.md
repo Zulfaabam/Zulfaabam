@@ -3,7 +3,7 @@
 ## I'm a Computer Engineering student at Diponegoro University. 
 
 - 👀 I have an interest in software engineer, especially in frontend web development.
-- 🌱 I’m currently learning how to become a great frontend web developer.
+- 🌱 I’m currently learning how to become a great frontend web developer with ReactJS.
 - 💞️ I’m looking to collaborate on with you guys.
 - 🎮 Here's a fun fact: I'm also a gamer.
 
