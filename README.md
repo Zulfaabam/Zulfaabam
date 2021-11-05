@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zabamz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zabamz1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zulfa fatah akbar ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulfa fatah akbar ahmad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zulfa-fatah-akbar-ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulfa fatah akbar ahmad" height="30" width="40" /></a>
 <a href="https://fb.com/zulfafatah.akbarahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abams" height="30" width="40" /></a>
 <a href="https://instagram.com/zfaabam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zfaabam" height="30" width="40" /></a>
 </p>
