@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [https://abams.vercel.app/](https://abams.vercel.app/)
+- 👨‍💻 All of my projects are available at [abams.vercel.app/](https://abams.vercel.app/)
 
 - 📫 How to reach me **zulfafatahakbar@gmail.com**
 
