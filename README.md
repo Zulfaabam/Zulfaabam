@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abam</h1>
 <h3 align="center">A Computer Engineering Student, Passionate in Frontend Developer</h3>
+![giyu](https://user-images.githubusercontent.com/63113235/141676567-28c3257c-2894-4887-b9d4-3c3ede11ca64.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfaabam&label=Profile%20views&color=0e75b6&style=flat" alt="zulfaabam" /> </p>
 
