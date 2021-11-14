@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zulfafatahakbar@gmail.com**
 
-- ⚡ Fun fact **I'm also a gamer**
+- ⚡ Fun fact: **I'm a calm gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
