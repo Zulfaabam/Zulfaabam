@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abam</h1>
-<h3 align="center">A Computer Engineering Student, Passionate to become Frontend Developer</h3>
+<h3 align="center">A Computer Engineering Student, Passionate to become a Frontend Developer</h3>
 
 <img align="right" width="50%" height="50%" src="https://user-images.githubusercontent.com/63113235/141676567-28c3257c-2894-4887-b9d4-3c3ede11ca64.gif">
 
