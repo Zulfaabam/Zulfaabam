@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [englishlearner.id website](https://englishlearner-id.vercel.app/)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [abams.vercel.app](https://abams.vercel.app/)
 
