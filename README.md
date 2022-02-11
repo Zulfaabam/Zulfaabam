@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfaabam&label=Profile%20views&color=0e75b6&style=flat" alt="zulfaabam" /> </p>
 
-- 🔭 I’m currently working on [englishlearner.id website](https://englishlearner-id.vercel.app/)
+- 🔭 I’m currently working on my Front-end Internship Project 
 
 - 🌱 I’m currently learning **Redux**
 
