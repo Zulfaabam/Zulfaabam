@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfaabam&label=Profile%20views&color=0e75b6&style=flat" alt="zulfaabam" /> </p>
 
-- 🔭 I’m currently working at Bukit Vista as a Front-end Developer Intern 
+- 🔭 I’m currently working at Bukit Vista as a Part-time Front-end Developer 
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [abams.vercel.app](https://abams.vercel.app/)
 
