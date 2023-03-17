@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at Bukit Vista as a Part-time Front-end Developer 
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.js** and **TypeScript**
 
 - 👨‍💻 All of my projects are available at [abams.vercel.app](https://abams.vercel.app/)
 
