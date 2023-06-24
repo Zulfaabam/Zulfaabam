@@ -29,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulfaabam&show_icons=true&locale=en&layout=compact" alt="zulfaabam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zulfaabam&show_icons=true&locale=en" alt="zulfaabam" /></p>
+
+<a href="http://www.github.com/Zulfaabam"><img src="https://github-readme-stats.vercel.app/api?username=Zulfaabam&show_icons=true&hide=prs,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zulfaabam's GitHub stats" /></a>
