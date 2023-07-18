@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfaabam&label=Profile%20views&color=0e75b6&style=flat" alt="zulfaabam" /> </p>
 
-- 🔭 I’m currently working at [Bukit Vista](https://www.bukitvista.com/) as a Part-time Front-end Developer.
+- 🔭 I’m currently working at <a href="https://www.bukitvista.com/" target="_blank">Bukit Vista</a> as a Part-time Front-end Developer.
 
 - 🌱 I’m currently learning **Next.js** and **TypeScript**.
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zabamz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zabamz1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zulfa-fatah-akbar-ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulfa fatah akbar ahmad" height="30" width="40" /></a>
-<a href="https://fb.com/zulfafatah.akbarahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abams" height="30" width="40" /></a>
-<a href="https://instagram.com/zfaabam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zfaabam" height="30" width="40" /></a>
+<a href="https://twitter.com/zabamz1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zabamz1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zulfa-fatah-akbar-ahmad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulfa fatah akbar ahmad" height="30" width="40" /></a>
+<a href="https://fb.com/zulfafatah.akbarahmad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abams" height="30" width="40" /></a>
+<a href="https://instagram.com/zfaabam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zfaabam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
