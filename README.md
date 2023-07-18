@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfaabam&label=Profile%20views&color=0e75b6&style=flat" alt="zulfaabam" /> </p>
 
-- 🔭 I’m currently working at <a href="https://www.bukitvista.com/" target="_blank">Bukit Vista</a> as a Part-time Front-end Developer.
+- 🔭 I’m currently working at [Bukit Vista](https://www.bukitvista.com/) as a Part-time Front-end Developer.
 
 - 🌱 I’m currently learning **Next.js** and **TypeScript**.
 
