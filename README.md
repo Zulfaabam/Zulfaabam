@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working at [Bukit Vista](https://www.bukitvista.com/) as a Front-end Developer.
 
-- 🌱 I’m currently learning **Next.js** and **TypeScript**.
+- ⚙️ Experience in **ReactJS**, **React Native**, **NextJS**, **JavaScript**, and **TypeScript**.
+
+- 🌱 I’m currently learning **Flutter**.
 
 - 👨‍💻 All of my projects are available [here](https://abams.vercel.app/).
 
