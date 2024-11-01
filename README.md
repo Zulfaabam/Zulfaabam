@@ -7,9 +7,9 @@
 
 - 🔭 I have 2+ years of experience as a Front-end Developer.
 
-- ⚙️ Experience in **ReactJS**, **React Native**, **NextJS**, **JavaScript**, and **TypeScript**.
+- ⚙️ Experience in **ReactJS**, **React Native**, **NextJS**, **JavaScript**, **TypeScript**, and **Tailwind**.
 
-- 🌱 I’m currently learning **Vue**.
+- 🌱 I’m currently learning **Vue** and **Angular** to rule them all.
 
 - 👨‍💻 All of my projects are available [here](https://abams.vercel.app/).
 
