@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://abams.vercel.app/).
 
-- 📫 How to reach me **zulfafatahakbar@gmail.com**.
+- 📫 Reach me via email: **zulfafatahakbar@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
