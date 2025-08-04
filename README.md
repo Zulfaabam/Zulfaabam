@@ -9,7 +9,7 @@
 
 - ⚙️ Experience in **ReactJS**, **React Native**, **NextJS**, **JavaScript**, **TypeScript**, and **Tailwind**.
 
-- 🌱 I’m currently working as a Frontend Developer for JBA Indonesia (employed under Eksad).
+- 🌱 I’m currently working as a Frontend Developer for [JBA Indonesia](https://www.jba.co.id/id/about-us) (employed under [Eksad](https://eksad.com/)).
 
 - 👨‍💻 All of my projects are available [here](https://abams.vercel.app/).
 
