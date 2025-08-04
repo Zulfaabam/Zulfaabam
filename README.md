@@ -9,7 +9,7 @@
 
 - ⚙️ Experience in **ReactJS**, **React Native**, **NextJS**, **JavaScript**, **TypeScript**, and **Tailwind**.
 
-- 🌱 I’m currently learning **Vue** and **Angular** to rule them all.
+- 🌱 I’m currently working as a Frontend Developer for JBA Indonesia (employed under Eksad).
 
 - 👨‍💻 All of my projects are available [here](https://abams.vercel.app/).
 
