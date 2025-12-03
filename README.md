@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfaabam&label=Profile%20views&color=0e75b6&style=flat" alt="zulfaabam" /> </p>
 
-- 🔭 I have 2+ years of experience as a Front-end Developer.
+- 🔭 I have 3+ years of experience as a Front-end Developer.
 
 - ⚙️ Experience in **ReactJS**, **React Native**, **NextJS**, **JavaScript**, **TypeScript**, and **Tailwind**.
 
