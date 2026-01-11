@@ -7,9 +7,9 @@
 
 - 🔭 I have 3+ years of experience as a Front-end Developer.
 
-- ⚙️ Experience in **ReactJS**, **React Native**, **NextJS**, **JavaScript**, **TypeScript**, and **Tailwind**.
+- ⚙️ Experience in **React**, **React Native**, **Next.js**, **JavaScript**, **TypeScript**, and **Tailwind**.
 
-- 🌱 I’m currently working as a Frontend Developer for [JBA Indonesia](https://www.jba.co.id/id/about-us) (employed under [Eksad](https://eksad.com/)).
+- 🌱 I’m currently going into a Fullstack role with my progress on learning Rust.
 
 - 👨‍💻 All of my projects are available [here](https://abams.vercel.app/).
 
