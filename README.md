@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently going into a Fullstack role with my progress on learning backend stuff.
 
-- 👨‍💻 All of my projects are available [here](https://abams.vercel.app/).
+- 👨‍💻 All of my projects are available [here](https://abams-folio.netlify.app/).
 
 - 📫 Reach me via email: **zulfafatahakbar@gmail.com**.
 
