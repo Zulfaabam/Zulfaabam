@@ -9,7 +9,7 @@
 
 - ⚙️ Experience in **React**, **React Native**, **Next.js**, **JavaScript**, **TypeScript**, and **Tailwind**.
 
-- 🌱 I’m currently going into a Fullstack role with my progress on learning backend stuff.
+- 🌱 Diving into product engineering as well as learning more technical skills (design, backend, etc).
 
 - 👨‍💻 All of my projects are available [here](https://abams-folio.netlify.app/).
 
