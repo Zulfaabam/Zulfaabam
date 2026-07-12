@@ -43,4 +43,5 @@
 </p>
 
 <p><img align="left" src="https://github-stats-extended.vercel.app/api?username=zulfaabam&show_icons=true&theme=dracula" alt="zulfaabam stats" /></p>
-<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zulfaabam&layout=compact" alt="zulfaabam's top languages" /></p>
+
+<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zulfaabam&layout=compact&theme=dracula" alt="zulfaabam's top languages" /></p>
