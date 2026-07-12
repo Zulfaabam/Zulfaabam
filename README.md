@@ -42,4 +42,5 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<p><img align="left" src="https://github-stats-extended.vercel.app/api?username=zulfaabam&show_icons=true&theme=dracula" alt="zulfaabam" /></p>
+<p><img align="left" src="https://github-stats-extended.vercel.app/api?username=zulfaabam&show_icons=true&theme=dracula" alt="zulfaabam stats" /></p>
+<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zulfaabam&layout=compact" alt="zulfaabam's top languages" /></p>
